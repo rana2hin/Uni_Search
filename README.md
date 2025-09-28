@@ -5,6 +5,10 @@ A modern, interactive web app to explore graduate programs (Masters/PhD) in **St
 > Demo data is mocked in-code for now. You can later wire to NCES/IPEDS or your own dataset.
 
 ---
+## 🖼️ Screenshot
+
+![App Interface](app.png)
+---
 
 ## ✨ Features
 
@@ -223,9 +227,4 @@ PRs welcome! Please:
 
 MIT © 2025 rana2hin
 
----
-
-## 🖼️ Screenshot
-
-![App Interface](app.png)
 ---
