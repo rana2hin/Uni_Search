@@ -227,10 +227,7 @@ MIT © 2025 rana2hin
 
 ## 🖼️ Screenshot
 
-```
 ![App Interface](app.png)
-```
-
 ---
 
 If you want, I can add URL-based filters, CSV export, and a JSON loader for real data—just say the word and I’ll drop in the exact code.
